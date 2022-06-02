@@ -40,7 +40,7 @@ Please use [OpenReview]() to start your submission!
 
 ### Important Dates 
 
-TBD 
+**Dec 09, 2022**: Workshop day. 
 
 ### Invited Speakers
 
