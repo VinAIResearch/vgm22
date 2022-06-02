@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+## Visual Generative Modeling Workshop 2022
 
-You can use the [editor on GitHub](https://github.com/VinAIResearch/vgm22/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Empowering Visual Data with Generative Models: From Research to Production
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Please note: this is a NeurIPS workshop proposal. Some information on this page might be revised and updated upon workshop acceptance.**
 
-### Markdown
+Welcome to the first Visual Generative Modeling workshop (VGM 2022)! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Photorealistic image synthesis has achieved fantastic progress in recent years. In additional to image synthesis by physics-based simulations, recent advances introduce a new family of generative image modeling techniques with notable image realism by using generative adversarial networks (GANs) and neural radiance fields (NeRFs). 
+This creates new opportunities to use generative models for data synthesis, thereby generating realistic data in a large scale in production. 
+These data can be used in practice to train neural networks, e.g., enhancing perception models in autonomous driving, or generating digital human in computer animation.
+Despite such, there remains open challenges to successfully adopting generative models for data synthesis such as data realism, the domain gap between synthetic and real data, or generating labels together with data, etc.
 
-```markdown
-Syntax highlighted code block
+VGM 2022 aims to discuss about generative modeling and data synthesis in both research and production, bringing together researchers, practitioners, engineers, students, and enthusiasts to discuss about the past, present, and future of generative modeling and data synthesis. 
+The workshop includes but is not limited to the discussion of the following topics: 
 
-# Header 1
-## Header 2
-### Header 3
+- Visual data production using simulation techniques and the translation between simulation and real scenarios, 
 
-- Bulleted
-- List
+- Generative modeling techniques including GANs and NeRFs for images, videos, and related domains such as medical images,
 
-1. Numbered
-2. List
+- Image synthesis techniques in real scenarios including but not limited to dataset creation, data annotation, user interaction, and data augmentation.  
 
-**Bold** and _Italic_ and `Code` text
+- Application of data generation in related industries such as autonomous driving, computer animation, and virtual/augmented/mixed reality.
 
-[Link](url) and ![Image](src)
-```
+The workshop is a full-day **virtual** event. 
+All talks are pre-recorded. The poster and panel discussion will be livestreamed on StreamYard and YouTube. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Workshop Paper Submission 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VinAIResearch/vgm22/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We invite contributors to submit full papers (max 9 pages excluding references) and short papers (max 5 pages excluding references). 
+All submissions must be in PDF using the [NeurIPS 2022 template](), and written in English. 
+Short papers include work-in-progress and demo papers. Following NeurIPS 2022 workshop guidelines, we would only accept papers with original content. Papers created for presenting a work already published in another venue will not be accepted. 
 
-### Support or Contact
+The submissions and reviews are double-blind. All reviewer comments on all accepted papers will be made publicly available. Each paper will be reviewed by at least three reviewers. 
+For each accepted paper, at least an author must attend the workshop to present the work. 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please use [OpenReview]() to start your submission! 
+
+
+### Important Dates 
+
+TBD 
+
+### Invited Speakers
+
+TBD 
+
+### Program
+
+TBD
+
+### Organizers 
+
+- [Anh Tran](), VinAI
+
+- [Binh-Son Hua](), VinAI
+
+- [Khoi Nguyen](), VinAI
+
+- [Dinh Phung](), Monash University
+
+- [Jianfei Cai](), Monash University
+
