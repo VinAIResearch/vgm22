@@ -2,7 +2,7 @@
 
 ### Empowering Visual Data with Generative Models: From Research to Production
 
-**Please note: this is a NeurIPS workshop proposal. Some information on this page might be revised and updated upon workshop acceptance.**
+**Please note: this is a NeurIPS 2022 workshop proposal. Some information on this page might be revised and updated upon workshop acceptance.**
 
 Welcome to the first Visual Generative Modeling workshop (VGM 2022)! 
 
