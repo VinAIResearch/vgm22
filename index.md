@@ -29,7 +29,7 @@ All talks are pre-recorded. The poster and panel discussion will be livestreamed
 ### Workshop Paper Submission 
 
 We invite contributors to submit full papers (max 9 pages excluding references) and short papers (max 5 pages excluding references). 
-All submissions must be in PDF using the [NeurIPS 2022 templatehttps://nips.cc/Conferences/2022/PaperInformation/StyleFiles), and written in English. 
+All submissions must be in PDF using the [NeurIPS 2022 template](https://nips.cc/Conferences/2022/PaperInformation/StyleFiles), and written in English. 
 Short papers include work-in-progress and demo papers. Following NeurIPS 2022 workshop guidelines, we would only accept papers with original content. Papers created for presenting a work already published in another venue will not be accepted. 
 
 The submissions and reviews are double-blind. All reviewer comments on all accepted papers will be made publicly available. Each paper will be reviewed by at least three reviewers. 
@@ -39,6 +39,8 @@ Please use [OpenReview]() to start your submission!
 
 
 ### Important Dates 
+
+**Sep 22, 2022**: Paper submission.
 
 **Dec 09, 2022**: Workshop day. 
 
